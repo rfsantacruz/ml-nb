@@ -1,4 +1,4 @@
-# ml-nb
+# ml-nb: Machine Learning Notebook
 This repository contains a set of IPython Notebooks about machine learning algorithms and its applications. Some of the content is based on the [PRML Book](https://www.microsoft.com/en-us/research/people/cmbishop/?from=http%3A%2F%2Fresearch.microsoft.com%2F%7Ecmbishop%2Fprml%2Findex.htm) by Christopher Bishop.
 
 ## Requirements:
